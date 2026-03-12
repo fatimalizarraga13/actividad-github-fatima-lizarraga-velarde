@@ -1,0 +1,9 @@
+Nombre del alumno: Fatima Lizarraga Velarde
+Fecha: 10 de marzo de 2026
+
+Objetivo de la actividad:
+Aprender a utilizar GitHub para crear repositorios,
+
+¿Qué es un Pull Request?
+Es una solicitud que permite revisar y fusionar cambios
+de una rama a otra dentro de un repositorio en GitHub.
